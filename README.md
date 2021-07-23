@@ -26,4 +26,5 @@ This is an image of the model in action as seen from the users perspective in th
 ## Links
 
 [Main repository of Places App project](https://github.com/pablo-blancoc/PlacesApp)
+
 [Backend repository of Places App](https://github.com/pablo-blancoc/PlacesApp-server)
