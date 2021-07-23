@@ -1,0 +1,22 @@
+# Files generated automatically
+.DS_Store
+.ipynb_checkpoints/
+
+# Not used notebook
+cnn_180.ipynb
+
+# Epochs saved per each model
+cnn_180/
+cnn_224/
+cnn_224_burgers/
+
+# Images used to create model
+datasets/
+
+# Saved models not user
+saved_model_224_01/
+saved_model_224_02/
+
+# Model not used 
+model_fastFood.tflite
+
